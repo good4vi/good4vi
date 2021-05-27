@@ -1,16 +1,15 @@
-### Hi there 👋
+## Bem vindo ao meu pérfil
 
-<!--
-**good4vi/good4vi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é **Vitória Silva**
 
-Here are some ideas to get you started:
+- Tenho *16 anos* e sou uma estudante do Ensino Médio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Atualmente moro em **Itatiaia, RJ**
+
+- Estudo no Firjan SESI e curso Desenvolvimento de sistemas no Firjan SENAI
+
+- Gosto de aprender outros idiomas, princialmente *inglês e italiano*
+
+- Sou uma grande fã de filmes e séries de super heróis, especialmente da **Marvel**
+
+- Gosto de todos os tipos de esporte, mas o único que realmente pratico e amo é **vôlei**
