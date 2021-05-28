@@ -1,4 +1,4 @@
-## Bem vindo ao meu pérfil
+## Bem vindo ao meu perfil
 
 - Meu nome é **Vitória Silva**
 
